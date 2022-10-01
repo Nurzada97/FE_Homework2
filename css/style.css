@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+}
+.yellow{
+    background-color: khaki;
+}
+.green{
+    background-color: palegreen;
+}
+.purple{
+    background-color: mediumorchid;
+}
